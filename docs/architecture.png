@@ -1,0 +1,11 @@
+college-event-management-system/
+│
+├── .github/
+│   └── workflows/
+│       └── college-event-ci.yml       ← your CI file
+│
+├── docs/
+│   └── architecture.png               ← (add a simple diagram later)
+│
+├── README.md                          ← your main project file
+└── LICENSE                            ← optional (MIT license)
