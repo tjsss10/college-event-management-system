@@ -19,3 +19,21 @@ It allows admins to create events, students to register, and organizers to track
 - Dashboard for participants
 
 ## 🚀 How to Run (locally)
+
+
+*(Placeholder command — will be replaced when the final code is added.)*
+
+---
+
+## ✅ GitHub CI/CD
+This project uses **GitHub Actions** for Continuous Integration (CI).  
+Every time a file is pushed or a pull request is made, the automated workflow runs basic checks.
+
+![CI](https://github.com/YOUR_USERNAME/college-event-management-system/actions/workflows/college-event-ci.yml/badge.svg)
+
+---
+
+## 👨‍💻 Team
+| Name | Role | Enrollment | Roll.No |
+|------|------|----------|
+| Tejas Gavhane | Project Lead | ADT23SOCB1227 | 54 |
